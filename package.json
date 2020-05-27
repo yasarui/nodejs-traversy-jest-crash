@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-traversy-jest-crash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasarui/nodejs-traversy-jest-crash.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yasarui/nodejs-traversy-jest-crash/issues"
+  },
+  "homepage": "https://github.com/yasarui/nodejs-traversy-jest-crash#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
