@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/yasarui/nodejs-traversy-jest-crash#readme",
   "devDependencies": {
-    "jest": "^23.6.0"
+    "jest": "^29.3.1"
   },
   "dependencies": {
     "axios": "^0.19.2"
